@@ -1,0 +1,5 @@
+project_name = "quantum-terraform-admin"
+billing_account = "billing_account"
+org_id = "org_id"
+region = "us-east4"
+vpc_project_name = "quantum-shared-vpc"
